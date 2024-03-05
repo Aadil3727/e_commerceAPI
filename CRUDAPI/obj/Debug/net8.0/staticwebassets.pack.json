@@ -1,0 +1,117 @@
+{
+  "Files": [
+    {
+      "Id": "A:\\DotNet\\EcommAPI\\CRUDAPI\\wwwroot\\images\\0489fcfb-d78f-4e45-80e6-db4b6d4fc16a.jpg",
+      "PackagePath": "staticwebassets\\images\\0489fcfb-d78f-4e45-80e6-db4b6d4fc16a.jpg"
+    },
+    {
+      "Id": "A:\\DotNet\\EcommAPI\\CRUDAPI\\wwwroot\\images\\04e1d24b-00f3-481d-9459-7979804fba7f.jpg",
+      "PackagePath": "staticwebassets\\images\\04e1d24b-00f3-481d-9459-7979804fba7f.jpg"
+    },
+    {
+      "Id": "A:\\DotNet\\EcommAPI\\CRUDAPI\\wwwroot\\images\\23953524-8020-46ec-8b5c-4b781b8198c7.jpg",
+      "PackagePath": "staticwebassets\\images\\23953524-8020-46ec-8b5c-4b781b8198c7.jpg"
+    },
+    {
+      "Id": "A:\\DotNet\\EcommAPI\\CRUDAPI\\wwwroot\\images\\2577de9e-3d1c-4d0c-a9e4-13d2b5c7a229.jpg",
+      "PackagePath": "staticwebassets\\images\\2577de9e-3d1c-4d0c-a9e4-13d2b5c7a229.jpg"
+    },
+    {
+      "Id": "A:\\DotNet\\EcommAPI\\CRUDAPI\\wwwroot\\images\\3485b141-eafe-4750-a47f-ea3be9e87d0f.jpg",
+      "PackagePath": "staticwebassets\\images\\3485b141-eafe-4750-a47f-ea3be9e87d0f.jpg"
+    },
+    {
+      "Id": "A:\\DotNet\\EcommAPI\\CRUDAPI\\wwwroot\\images\\42579da4-7a54-4424-a2f2-de69cd6c1239.jpg",
+      "PackagePath": "staticwebassets\\images\\42579da4-7a54-4424-a2f2-de69cd6c1239.jpg"
+    },
+    {
+      "Id": "A:\\DotNet\\EcommAPI\\CRUDAPI\\wwwroot\\images\\4b57fb8d-343c-40e5-8b98-38d999862411.jpg",
+      "PackagePath": "staticwebassets\\images\\4b57fb8d-343c-40e5-8b98-38d999862411.jpg"
+    },
+    {
+      "Id": "A:\\DotNet\\EcommAPI\\CRUDAPI\\wwwroot\\images\\665912e1-2d8b-4f3e-8584-834aeeb7a608.jpg",
+      "PackagePath": "staticwebassets\\images\\665912e1-2d8b-4f3e-8584-834aeeb7a608.jpg"
+    },
+    {
+      "Id": "A:\\DotNet\\EcommAPI\\CRUDAPI\\wwwroot\\images\\7df3005f-60f9-401c-9a9e-2cf0321133a9.jpg",
+      "PackagePath": "staticwebassets\\images\\7df3005f-60f9-401c-9a9e-2cf0321133a9.jpg"
+    },
+    {
+      "Id": "A:\\DotNet\\EcommAPI\\CRUDAPI\\wwwroot\\images\\908810e4-e87f-40f1-8b39-b622040a08a0.jpg",
+      "PackagePath": "staticwebassets\\images\\908810e4-e87f-40f1-8b39-b622040a08a0.jpg"
+    },
+    {
+      "Id": "A:\\DotNet\\EcommAPI\\CRUDAPI\\wwwroot\\images\\98faa05b-887c-4ea7-9f70-fd1e45df90bf.jpg",
+      "PackagePath": "staticwebassets\\images\\98faa05b-887c-4ea7-9f70-fd1e45df90bf.jpg"
+    },
+    {
+      "Id": "A:\\DotNet\\EcommAPI\\CRUDAPI\\wwwroot\\images\\9dd8bcdd-e5ae-44d6-b7e8-b3f5f7793f96.jpg",
+      "PackagePath": "staticwebassets\\images\\9dd8bcdd-e5ae-44d6-b7e8-b3f5f7793f96.jpg"
+    },
+    {
+      "Id": "A:\\DotNet\\EcommAPI\\CRUDAPI\\wwwroot\\images\\a82b5081-1f65-4139-a3e1-77d93d9f6817.jpg",
+      "PackagePath": "staticwebassets\\images\\a82b5081-1f65-4139-a3e1-77d93d9f6817.jpg"
+    },
+    {
+      "Id": "A:\\DotNet\\EcommAPI\\CRUDAPI\\wwwroot\\images\\abad6c6c-f370-4740-9625-fa5edc3e8341.jpg",
+      "PackagePath": "staticwebassets\\images\\abad6c6c-f370-4740-9625-fa5edc3e8341.jpg"
+    },
+    {
+      "Id": "A:\\DotNet\\EcommAPI\\CRUDAPI\\wwwroot\\images\\bd261573-5989-4ab6-a8f7-d4a49d318d12.jpg",
+      "PackagePath": "staticwebassets\\images\\bd261573-5989-4ab6-a8f7-d4a49d318d12.jpg"
+    },
+    {
+      "Id": "A:\\DotNet\\EcommAPI\\CRUDAPI\\wwwroot\\images\\f4e0d45a-f249-497d-8fcc-5c84fce7e98b.jpg",
+      "PackagePath": "staticwebassets\\images\\f4e0d45a-f249-497d-8fcc-5c84fce7e98b.jpg"
+    },
+    {
+      "Id": "A:\\DotNet\\EcommAPI\\CRUDAPI\\wwwroot\\images\\fdb844de-47ba-484d-8a7f-7ee8bc943871.jpg",
+      "PackagePath": "staticwebassets\\images\\fdb844de-47ba-484d-8a7f-7ee8bc943871.jpg"
+    },
+    {
+      "Id": "A:\\DotNet\\EcommAPI\\CRUDAPI\\wwwroot\\productimages\\00aaabba-4937-4201-9abd-0f11c856151b.jpg",
+      "PackagePath": "staticwebassets\\productimages\\00aaabba-4937-4201-9abd-0f11c856151b.jpg"
+    },
+    {
+      "Id": "A:\\DotNet\\EcommAPI\\CRUDAPI\\wwwroot\\productimages\\10822060-b29e-4573-8013-b9292eca5dff.jpg",
+      "PackagePath": "staticwebassets\\productimages\\10822060-b29e-4573-8013-b9292eca5dff.jpg"
+    },
+    {
+      "Id": "A:\\DotNet\\EcommAPI\\CRUDAPI\\wwwroot\\productimages\\3523484a-4cb6-4df5-a723-1e98c23dff53.jpg",
+      "PackagePath": "staticwebassets\\productimages\\3523484a-4cb6-4df5-a723-1e98c23dff53.jpg"
+    },
+    {
+      "Id": "A:\\DotNet\\EcommAPI\\CRUDAPI\\wwwroot\\productimages\\793e1875-6d4a-4922-be27-47a86e81c213.jpg",
+      "PackagePath": "staticwebassets\\productimages\\793e1875-6d4a-4922-be27-47a86e81c213.jpg"
+    },
+    {
+      "Id": "A:\\DotNet\\EcommAPI\\CRUDAPI\\wwwroot\\productimages\\9bfab190-420f-4d9a-8287-6640858f1cc6.jpg",
+      "PackagePath": "staticwebassets\\productimages\\9bfab190-420f-4d9a-8287-6640858f1cc6.jpg"
+    },
+    {
+      "Id": "A:\\DotNet\\EcommAPI\\CRUDAPI\\wwwroot\\productimages\\babd981d-95bb-42a3-9d91-585e263ce8c4.jpg",
+      "PackagePath": "staticwebassets\\productimages\\babd981d-95bb-42a3-9d91-585e263ce8c4.jpg"
+    },
+    {
+      "Id": "A:\\DotNet\\EcommAPI\\CRUDAPI\\wwwroot\\productimages\\f7112b19-d42c-4108-8028-cf7c44d968b4.jpg",
+      "PackagePath": "staticwebassets\\productimages\\f7112b19-d42c-4108-8028-cf7c44d968b4.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CRUDAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CRUDAPI.props",
+      "PackagePath": "build\\CRUDAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CRUDAPI.props",
+      "PackagePath": "buildMultiTargeting\\CRUDAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CRUDAPI.props",
+      "PackagePath": "buildTransitive\\CRUDAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

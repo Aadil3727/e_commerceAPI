@@ -1,0 +1,17 @@
+A:\DotNet\EcommAPI\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+A:\DotNet\EcommAPI\DataLayer\bin\Debug\net8.0\DataLayer.runtimeconfig.json
+A:\DotNet\EcommAPI\DataLayer\bin\Debug\net8.0\DataLayer.dll
+A:\DotNet\EcommAPI\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+A:\DotNet\EcommAPI\DataLayer\bin\Debug\net8.0\DTO's Layer.dll
+A:\DotNet\EcommAPI\DataLayer\bin\Debug\net8.0\DTO's Layer.pdb
+A:\DotNet\EcommAPI\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+A:\DotNet\EcommAPI\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+A:\DotNet\EcommAPI\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+A:\DotNet\EcommAPI\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+A:\DotNet\EcommAPI\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+A:\DotNet\EcommAPI\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CopyComplete
+A:\DotNet\EcommAPI\DataLayer\obj\Debug\net8.0\DataLayer.dll
+A:\DotNet\EcommAPI\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+A:\DotNet\EcommAPI\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+A:\DotNet\EcommAPI\DataLayer\obj\Debug\net8.0\DataLayer.genruntimeconfig.cache
+A:\DotNet\EcommAPI\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll

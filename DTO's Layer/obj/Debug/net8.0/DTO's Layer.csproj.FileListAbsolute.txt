@@ -1,0 +1,11 @@
+A:\DotNet\EcommAPI\DTO's Layer\bin\Debug\net8.0\DTO's Layer.deps.json
+A:\DotNet\EcommAPI\DTO's Layer\bin\Debug\net8.0\DTO's Layer.dll
+A:\DotNet\EcommAPI\DTO's Layer\bin\Debug\net8.0\DTO's Layer.pdb
+A:\DotNet\EcommAPI\DTO's Layer\obj\Debug\net8.0\DTO's Layer.GeneratedMSBuildEditorConfig.editorconfig
+A:\DotNet\EcommAPI\DTO's Layer\obj\Debug\net8.0\DTO's Layer.AssemblyInfoInputs.cache
+A:\DotNet\EcommAPI\DTO's Layer\obj\Debug\net8.0\DTO's Layer.AssemblyInfo.cs
+A:\DotNet\EcommAPI\DTO's Layer\obj\Debug\net8.0\DTO's Layer.csproj.CoreCompileInputs.cache
+A:\DotNet\EcommAPI\DTO's Layer\obj\Debug\net8.0\DTO's Layer.dll
+A:\DotNet\EcommAPI\DTO's Layer\obj\Debug\net8.0\refint\DTO's Layer.dll
+A:\DotNet\EcommAPI\DTO's Layer\obj\Debug\net8.0\DTO's Layer.pdb
+A:\DotNet\EcommAPI\DTO's Layer\obj\Debug\net8.0\ref\DTO's Layer.dll

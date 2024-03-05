@@ -1,0 +1,17 @@
+A:\DotNet\EcommAPI\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+A:\DotNet\EcommAPI\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+A:\DotNet\EcommAPI\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+A:\DotNet\EcommAPI\BusinessLayer\bin\Debug\net8.0\DataLayer.dll
+A:\DotNet\EcommAPI\BusinessLayer\bin\Debug\net8.0\DTO's Layer.dll
+A:\DotNet\EcommAPI\BusinessLayer\bin\Debug\net8.0\DataLayer.pdb
+A:\DotNet\EcommAPI\BusinessLayer\bin\Debug\net8.0\DTO's Layer.pdb
+A:\DotNet\EcommAPI\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+A:\DotNet\EcommAPI\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+A:\DotNet\EcommAPI\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+A:\DotNet\EcommAPI\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+A:\DotNet\EcommAPI\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+A:\DotNet\EcommAPI\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CopyComplete
+A:\DotNet\EcommAPI\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+A:\DotNet\EcommAPI\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+A:\DotNet\EcommAPI\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+A:\DotNet\EcommAPI\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
