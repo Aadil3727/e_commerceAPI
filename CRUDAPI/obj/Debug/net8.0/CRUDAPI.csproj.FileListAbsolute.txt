@@ -120,3 +120,4 @@ A:\DotNet\EcommAPI\CRUDAPI\obj\Debug\net8.0\refint\CRUDAPI.dll
 A:\DotNet\EcommAPI\CRUDAPI\obj\Debug\net8.0\CRUDAPI.pdb
 A:\DotNet\EcommAPI\CRUDAPI\obj\Debug\net8.0\CRUDAPI.genruntimeconfig.cache
 A:\DotNet\EcommAPI\CRUDAPI\obj\Debug\net8.0\ref\CRUDAPI.dll
+A:\DotNet\EcommAPI\CRUDAPI\obj\Debug\net8.0\CRUDAPI.sourcelink.json

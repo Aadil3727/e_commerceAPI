@@ -12,28 +12,19 @@ using DTO_s_Layer.DTO_Model.Product;
 
 namespace BusinessLayer.Mapper
 {
-    public class UserProfile: Profile
+    public class UserProfile : Profile
     {
         public UserProfile()
         {
             CreateMap<User_db, UserDTO>().ReverseMap();
-
             CreateMap<User_db, LoginDTO>();
-
             CreateMap<User_db, EditDTO>();
-
             CreateMap<Category_DTO, Category_db>();
-
             CreateMap<Category_db, EditCatDTO>();
-
             CreateMap<Product_DTO, Product_db>();
-            CreateMap<Product_db,Product_DTO>();
-
-
+            CreateMap<Product_db, Product_DTO>();
             CreateMap<ProductEditDTO, Product_db>();
-            CreateMap<Product_db,ProductEditDTO >();
-
-
+            CreateMap<Product_db, ProductEditDTO>();
         }
     }
 }

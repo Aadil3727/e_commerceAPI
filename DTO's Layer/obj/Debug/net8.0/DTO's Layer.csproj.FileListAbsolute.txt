@@ -9,3 +9,4 @@ A:\DotNet\EcommAPI\DTO's Layer\obj\Debug\net8.0\DTO's Layer.dll
 A:\DotNet\EcommAPI\DTO's Layer\obj\Debug\net8.0\refint\DTO's Layer.dll
 A:\DotNet\EcommAPI\DTO's Layer\obj\Debug\net8.0\DTO's Layer.pdb
 A:\DotNet\EcommAPI\DTO's Layer\obj\Debug\net8.0\ref\DTO's Layer.dll
+A:\DotNet\EcommAPI\DTO's Layer\obj\Debug\net8.0\DTO's Layer.sourcelink.json

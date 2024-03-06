@@ -3,6 +3,7 @@ using BusinessLayer.Services;
 using DataLayer.Models;
 using DTO_s_Layer.DTO_Model;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Text.RegularExpressions;
@@ -97,6 +98,34 @@ namespace CRUDAPI.Controllers
             {
                 return BadRequest();
             }
+        }
+        [HttpPost]
+        public async Task<IActionResult> ForgotPassword(string email)
+        {
+            var response = await user.ForgotPassword(email);
+            if (response == "Password reset link sent successfully")
+            {
+                return Ok(response);
+            }
+            else
+            {
+                return BadRequest("Failed to send password reset link.");
+            }
+        }
+        [HttpPost]
+        public async Task<IActionResult> ResetPassword(string ResetToken, string Password)
+        {
+            var response = await user.ResetPassword(ResetToken, Password);
+            if (response == "Password reset successfully")
+            {
+                // Redirect to login page or any other desired page after successful password reset
+                return Ok("Password Reset Successfully");
+            }
+            else
+            {
+                return BadRequest("Error");
+            }
+            
         }
     }
 }

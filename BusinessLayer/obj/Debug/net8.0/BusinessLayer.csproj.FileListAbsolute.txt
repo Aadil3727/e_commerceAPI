@@ -15,3 +15,4 @@ A:\DotNet\EcommAPI\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
 A:\DotNet\EcommAPI\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
 A:\DotNet\EcommAPI\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
 A:\DotNet\EcommAPI\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+A:\DotNet\EcommAPI\BusinessLayer\obj\Debug\net8.0\BusinessLayer.sourcelink.json

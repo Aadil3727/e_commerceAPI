@@ -15,3 +15,4 @@ A:\DotNet\EcommAPI\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
 A:\DotNet\EcommAPI\DataLayer\obj\Debug\net8.0\DataLayer.pdb
 A:\DotNet\EcommAPI\DataLayer\obj\Debug\net8.0\DataLayer.genruntimeconfig.cache
 A:\DotNet\EcommAPI\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll
+A:\DotNet\EcommAPI\DataLayer\obj\Debug\net8.0\DataLayer.sourcelink.json

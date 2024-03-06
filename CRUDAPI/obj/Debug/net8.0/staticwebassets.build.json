@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tOg/C/BFJ3AEkD7hXpkyAwTxdQrbqWGP6QX6u4h9Czg=",
+  "Hash": "oi7gAYaHMKsiVxV6Cr6DoJSaRy6wXF2XQ3YhBM0wcao=",
   "Source": "CRUDAPI",
   "BasePath": "_content/CRUDAPI",
   "Mode": "Default",
@@ -167,6 +167,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\665912e1-2d8b-4f3e-8584-834aeeb7a608.jpg"
+    },
+    {
+      "Identity": "A:\\DotNet\\EcommAPI\\CRUDAPI\\wwwroot\\images\\745955e2-1c37-45c1-9c38-25d60ef7a689.jpg",
+      "SourceId": "CRUDAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "A:\\DotNet\\EcommAPI\\CRUDAPI\\wwwroot\\",
+      "BasePath": "_content/CRUDAPI",
+      "RelativePath": "images/745955e2-1c37-45c1-9c38-25d60ef7a689.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\745955e2-1c37-45c1-9c38-25d60ef7a689.jpg"
     },
     {
       "Identity": "A:\\DotNet\\EcommAPI\\CRUDAPI\\wwwroot\\images\\7df3005f-60f9-401c-9a9e-2cf0321133a9.jpg",

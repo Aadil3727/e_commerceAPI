@@ -12,8 +12,8 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace DataLayer.Migrations
 {
     [DbContext(typeof(ApplicationContext))]
-    [Migration("20240305070059_new")]
-    partial class @new
+    [Migration("20240306060035_forgotpass")]
+    partial class forgotpass
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -108,6 +108,12 @@ namespace DataLayer.Migrations
                     b.Property<string>("ProfileImg")
                         .IsRequired()
                         .HasColumnType("text");
+
+                    b.Property<string>("ResetToken")
+                        .HasColumnType("text");
+
+                    b.Property<DateTime?>("ResetTokenExpiration")
+                        .HasColumnType("timestamp with time zone");
 
                     b.HasKey("Id");
 

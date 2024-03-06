@@ -16,6 +16,9 @@ namespace BusinessLayer.Interfaces
 
         Task<List<User_db>> List();
         Task<User_db> GetUserById(Guid id);
+        Task<bool> UserExists(string Email);
+        Task<string> ForgotPassword(string email);
+        Task<string> ResetPassword(string token, string newPassword);
 
         string DeleteUser(Guid id);
 

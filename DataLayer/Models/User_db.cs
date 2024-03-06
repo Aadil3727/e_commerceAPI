@@ -12,6 +12,9 @@ namespace DataLayer.Models
         public string ProfileImg { get; set; }
 
         public string Password { get; set; }
+        public string? ResetToken { get; set; }
 
+        [DataType(DataType.DateTime)]
+        public DateTime? ResetTokenExpiration { get; set; } = DateTime.UtcNow;
     }
 }
